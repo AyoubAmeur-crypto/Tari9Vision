@@ -1,0 +1,12 @@
+streamlit
+ultralytics
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+segment-anything
+pandas
+fastapi
+uvicorn
+python-multipart
