@@ -1,10 +1,10 @@
-![Damage Analysis Interface](frontend/src/assets/TV.png)
+![Damage Analysis Interface](/frontend/src/assets/TV.png)
 
 ## Elevating Infrastructure Intelligence
 
 Damage Intelligence Studio is a production-grade, high-performance computer vision solution designed to revolutionize the way structural damage is detected and analyzed. By combining state-of-the-art object detection and semantic segmentation algorithms into a seamless, unified interface, we provide engineering and maintenance teams with unparalleled visual intelligence.
 
-![interface](frontend/src/assets/cover.jpg)
+![interface](/frontend/src/assets/cover.jpg)
 
 ## Architecture
 
