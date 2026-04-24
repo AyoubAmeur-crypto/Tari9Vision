@@ -10,10 +10,21 @@ env/
 
 # Large Model Weights (DO NOT PUSH TO GITHUB)
 backend/models/
+backend/models.rar
 *.pt
 *.pth
 *.onnx
 *.engine
+*.rar
+*.pb
+*.h5
+*.keras
+*.pkl
+*.pickle
+*.node
+*.so
+*.dll
+*.dylib
 
 # Local development files
 .DS_Store
